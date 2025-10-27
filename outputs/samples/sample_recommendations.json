@@ -1,0 +1,187 @@
+﻿{
+    "user_id":  "cold_start_user",
+    "items":  [
+                  {
+                      "item_id":  "6852382c35410b6826502b4a",
+                      "name":  "Cayla gown",
+                      "brand":  "norma kamali",
+                      "price":  360.0,
+                      "color":  "black",
+                      "url":  "https://www.mytheresa.com/us/en/women/norma-kamali-cayla-gown-black-p01058621",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "66b322210484781bef907ee0",
+                      "name":  "Floral-appliquÃ© jersey gown",
+                      "brand":  "magda butrym",
+                      "price":  1101.0,
+                      "color":  "pink",
+                      "url":  "https://www.mytheresa.com/us/en/women/magda-butrym-jersey-gown-pink-p00962573",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "67050d47d4a26ba45249464e",
+                      "name":  "Ruffled wool midi dress",
+                      "brand":  "blumarine",
+                      "price":  753.0,
+                      "color":  "black",
+                      "url":  "https://www.mytheresa.com/us/en/women/blumarine-ruffled-wool-midi-dress-black-p00832465",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "67056b6bd4a26ba45254ed7d",
+                      "name":  "Embellished cotton-blend midi dress",
+                      "brand":  "alessandra rich",
+                      "price":  824.0,
+                      "color":  "pink",
+                      "url":  "https://www.mytheresa.com/us/en/women/alessandra-rich-embellished-cotton-blend-midi-dress-pink-p00818326",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "6852312935410b68264f1704",
+                      "name":  "Cece satin and crÃªpe gown",
+                      "brand":  "solace london",
+                      "price":  870.0,
+                      "color":  "grey",
+                      "url":  "https://www.mytheresa.com/us/en/women/solace-london-cece-satin-and-crepe-gown-grey-p01055237",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "68bf4b6ea97aed5b97ed857d",
+                      "name":  "Katrina linen-blend shirt dress",
+                      "brand":  "leo lin",
+                      "price":  830.0,
+                      "color":  "purple",
+                      "url":  "https://www.mytheresa.com/us/en/women/leo-lin-katrina-linen-blend-shirt-dress-purple-p01093399",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "681d2857de7b620e51a29205",
+                      "name":  "Lenia beaded lace gown",
+                      "brand":  "costarellos",
+                      "price":  1774.0,
+                      "color":  "blue",
+                      "url":  "https://www.mytheresa.com/us/en/women/costarellos-lenia-beaded-lace-gown-blue-p01026236",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "6621b668f2067226ce754b60",
+                      "name":  "Zahara sequined and lace gown",
+                      "brand":  "costarellos",
+                      "price":  1120.0,
+                      "color":  "metallic",
+                      "url":  "https://www.mytheresa.com/us/en/women/costarellos-zahara-sequined-and-lace-gown-metallic-p00729937",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "6855cb4835410b682603225a",
+                      "name":  "Kinsley draped strapless gown",
+                      "brand":  "solace london",
+                      "price":  825.0,
+                      "color":  "blue",
+                      "url":  "https://www.mytheresa.com/us/en/women/solace-london-kinsley-draped-strapless-gown-blue-p01066910",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "68cb2561e87295fba4fb0237",
+                      "name":  "Explode ruffled wool and silk gown",
+                      "brand":  "maticevski",
+                      "price":  5950.0,
+                      "color":  "black",
+                      "url":  "https://www.mytheresa.com/us/en/women/maticevski-explode-ruffled-wool-and-silk-gown-black-p01079604",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "68d1cdf4bbfb67359e539797",
+                      "name":  "Renee gown",
+                      "brand":  "solace london",
+                      "price":  845.0,
+                      "color":  "pink",
+                      "url":  "https://www.mytheresa.com/us/en/women/solace-london-renee-gown-pink-p01111992",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "68719ea9a5788bba62520d90",
+                      "name":  "Floral embroidered mesh maxi dress",
+                      "brand":  "rotate",
+                      "price":  450.0,
+                      "color":  "purple",
+                      "url":  "https://www.mytheresa.com/us/en/women/rotate-floral-embroidered-mesh-maxi-dress-purple-p01086859",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "66850b5e562c84fac9d57c33",
+                      "name":  "Charmain plissÃ© georgette gown",
+                      "brand":  "costarellos",
+                      "price":  1665.0,
+                      "color":  "pink",
+                      "url":  "https://www.mytheresa.com/us/en/women/costarellos-charmain-plisse-georgette-gown-pink-p00955173",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "6751880db5466f0fa018f6a7",
+                      "name":  "Ubud Extravaganza feather-trimmed gown",
+                      "brand":  "taller marmo",
+                      "price":  1494.0,
+                      "color":  "blue",
+                      "url":  "https://www.mytheresa.com/us/en/women/taller-marmo-ubud-extravaganza-feather-trimmed-gown-blue-p00994776",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "68df0bd3bbfb67359e30c8c5",
+                      "name":  "Scarf-detail jersey gown",
+                      "brand":  "self-portrait",
+                      "price":  795.0,
+                      "color":  "brown",
+                      "url":  "https://www.mytheresa.com/us/en/women/self-portrait-jersey-gown-brown-p01081540",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "6621c831e8bcdaefb9946f24",
+                      "name":  "Ruched lace gown",
+                      "brand":  "costarellos",
+                      "price":  3520.0,
+                      "color":  "blue",
+                      "url":  "https://www.mytheresa.com/us/en/women/costarellos-ruched-lace-gown-blue-p00924584",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "68c1e968a97aed5b97791def",
+                      "name":  "Embellished wool-blend shift dress",
+                      "brand":  "carolina herrera",
+                      "price":  5150.0,
+                      "color":  "black",
+                      "url":  "https://www.mytheresa.com/us/en/women/carolina-herrera-embellished-wool-blend-shift-dress-black-p01091896",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "67ed41dee52becc09d1cf93b",
+                      "name":  "Semi-sheer lace gown",
+                      "brand":  "norma kamali",
+                      "price":  395.0,
+                      "color":  "black",
+                      "url":  "https://www.mytheresa.com/us/en/women/norma-kamali-semi-sheer-lace-gown-black-p01054086",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "68bf49bfa97aed5b97ed2c13",
+                      "name":  "Lucinda floral puff-sleeve maxi dress",
+                      "brand":  "leo lin",
+                      "price":  940.0,
+                      "color":  "purple",
+                      "url":  "https://www.mytheresa.com/us/en/women/leo-lin-lucinda-floral-maxi-dress-purple-p01093398",
+                      "retailer":  "Mytheresa"
+                  },
+                  {
+                      "item_id":  "6621b8c2f3d3c804c9d1ebf8",
+                      "name":  "Bettie satin midi dress",
+                      "brand":  "velvet",
+                      "price":  261.0,
+                      "color":  "red",
+                      "url":  "https://www.mytheresa.com/us/en/women/velvet-bettie-satin-midi-dress-red-p00904535",
+                      "retailer":  "Mytheresa"
+                  }
+              ],
+    "count":  20,
+    "timestamp":  "2025-10-26T14:55:32.462061"
+}
