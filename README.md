@@ -84,17 +84,17 @@ We implemented a **two-stage hybrid architecture** combining:
 +-------------------------------------------------------------------+
 |              CANDIDATE GENERATION (~200 items)                    |
 |                                                                   |
-|   +--------------+      +--------------+      +--------------+   |
-|   |   Content    |      | Co-visitation|      |  Popularity  |   |
-|   |   (TF-IDF)   |      | (Collab. CF) |      | (Time Decay) |   |
-|   |              |      |              |      |              |   |
-|   | User vector  |      | Item-item    |      | Global       |   |
-|   | -> Cosine    |      | neighbors    |      | trending     |   |
-|   | similarity   |      | with decay   |      | items        |   |
-|   |              |      |              |      |              |   |
-|   | Top 200      |      | Top 200      |      | Top 200      |   |
-|   | Weight: 0.5  |      | Weight: 0.3  |      | Weight: 0.2  |   |
-|   +--------------+      +--------------+      +--------------+   |
+|   +--------------+      +--------------+      +--------------+    |
+|   |   Content    |      | Co-visitation|      |  Popularity  |    |
+|   |   (TF-IDF)   |      | (Collab. CF) |      | (Time Decay) |    |
+|   |              |      |              |      |              |    |
+|   | User vector  |      | Item-item    |      | Global       |    |
+|   | -> Cosine    |      | neighbors    |      | trending     |    |
+|   | similarity   |      | with decay   |      | items        |    |
+|   |              |      |              |      |              |    |
+|   | Top 200      |      | Top 200      |      | Top 200      |    |
+|   | Weight: 0.5  |      | Weight: 0.3  |      | Weight: 0.2  |    |
+|   +--------------+      +--------------+      +--------------+    |
 |                                                                   |
 |                  +---------------------------+                    |
 |                  | Merge & Deduplicate       |                    |
@@ -110,13 +110,13 @@ We implemented a **two-stage hybrid architecture** combining:
 |    +----------------------------------------------------------+   |
 |    |            Adaptive Heuristic Scoring                    |   |
 |    |                                                          |   |
-|    | IF user has < 3 interactions (SPARSE):                  |   |
-|    |   Content: 90% | Covis: 2% | Brand: 3%                  |   |
-|    |   Popularity: 2% | Price: 2% | Freshness: 1%            |   |
+|    | IF user has < 3 interactions (SPARSE):                   |   |
+|    |   Content: 90% | Covis: 2% | Brand: 3%                   |   |
+|    |   Popularity: 2% | Price: 2% | Freshness: 1%             |   |
 |    |                                                          |   |
 |    | ELSE (RICH DATA):                                        |   |
-|    |   Content: 60% | Covis: 15% | Brand: 10%                |   |
-|    |   Popularity: 8% | Price: 5% | Freshness: 2%            |   |
+|    |   Content: 60% | Covis: 15% | Brand: 10%                 |   |
+|    |   Popularity: 8% | Price: 5% | Freshness: 2%             |   |
 |    +----------------------------------------------------------+   |
 |                                                                   |
 +-------------------------------+-----------------------------------+
@@ -127,7 +127,7 @@ We implemented a **two-stage hybrid architecture** combining:
 |                                                                   |
 |    +----------------------------------------------------------+   |
 |    | 1. MMR (Maximal Marginal Relevance)                      |   |
-|    |    Lambda = 0.7 => 70% relevance + 30% diversity        |   |
+|    |    Lambda = 0.7 => 70% relevance + 30% diversity         |   |
 |    |                                                          |   |
 |    | 2. Diversity Filters                                     |   |
 |    |    - Max 2 items per brand                               |   |
@@ -142,7 +142,7 @@ We implemented a **two-stage hybrid architecture** combining:
 |                   Top K items (default: 20)                       |
 |                    Response time: <500ms                          |
 |                                                                   |
-|      [item_id, name, brand, price, color, url, ...]              |
+|      [item_id, name, brand, price, color, url, ...]               |
 +-------------------------------------------------------------------+
 ```
 
